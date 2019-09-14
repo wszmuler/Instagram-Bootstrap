@@ -1,0 +1,52 @@
+.wrapper{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: #ddd;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+banner {
+    background: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+div.post{
+    background: white;
+    max-width: 500px;
+    margin: auto;
+}
+div.post h2{
+    float: left;
+    padding: 5px 10px 10px;
+    margin: 0;
+    font-size: 20px;
+}
+div.post img{
+    width: 100%;
+}
+div.post p{
+    padding: 10px;
+}
+p.date {
+    text-align: right;
+    color: #cccccc;
+    margin-bottom: 5px;
+}
+div.post-description p{
+    margin-top: 3px;
+}
+.modal-body textarea{
+    width: 100%;
+}
+.nav-link{
+ color: darkgray;
+}
+
+.nav-link:hover{
+ color: dimgrey;
+}
+
+.nav-pills .nav-item .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #474545;
+}
